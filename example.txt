@@ -1,1 +1,3 @@
-We are learning how to clone the repo or project into the local system.
+Hi All, This is the Git Bash we are learning
+
+I hope you people are able to undertsand everything.
